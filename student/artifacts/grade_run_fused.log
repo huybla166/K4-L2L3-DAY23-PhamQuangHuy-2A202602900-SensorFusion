@@ -196,4 +196,4 @@
 {"mode": "fused", "frame": 195, "det_tp": 3, "det_fp": 0, "det_fn": 7, "valid_gt": 10, "confirmed": 3, "matches": 3, "sum_sq_err": 0.1380644837849197, "ghosts": 0, "misses": 7}
 {"mode": "fused", "frame": 196, "det_tp": 3, "det_fp": 0, "det_fn": 7, "valid_gt": 10, "confirmed": 3, "matches": 3, "sum_sq_err": 0.08582529373371224, "ghosts": 0, "misses": 7}
 {"mode": "fused", "frame": 197, "det_tp": 3, "det_fp": 0, "det_fn": 6, "valid_gt": 9, "confirmed": 3, "matches": 3, "sum_sq_err": 0.06516246344127151, "ghosts": 0, "misses": 6}
-{"mode": "fused", "frame": 198, "det_tp": 3, "det_fp": 0, "det_fn": 6, "valid_gt": 9, "confirmed": 3, "matches": 3, "sum_sq_err": 0.07530477319719157, "ghosts": 0, "misses": 6}
+{"mode": "fused", "frame": 198, "det_tp": 3, "det_fp": 0, "det_fn": 6, "valid_gt": 9, "confirmed": 3, "matches": 3, "sum_sq_err": 0.07530477319719164, "ghosts": 0, "misses": 6}
