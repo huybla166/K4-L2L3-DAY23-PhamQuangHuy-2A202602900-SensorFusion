@@ -1,0 +1,40 @@
+{
+  "camera_updates_on_matched_tracks": 484,
+  "mean_abs_err_before_camera_xyz": [
+    0.087,
+    0.0605,
+    0.0509
+  ],
+  "mean_abs_err_after_camera_xyz": [
+    0.0739,
+    0.0501,
+    0.0617
+  ],
+  "rms_3d_err_before_camera": 0.145467032706607,
+  "rms_3d_err_after_camera": 0.1323544649479912,
+  "mean_abs_shift_xyz": [
+    0.0186,
+    0.0855,
+    0.0684
+  ],
+  "figure_frame": 88,
+  "timeseries_gt_id": "jT38g8qP7TxoFXreShjseQ",
+  "timeseries_frames_lidar": 195,
+  "timeseries_frames_fused": 195,
+  "lidar_metrics": {
+    "rmse": 0.15032270040636328,
+    "matches": 502,
+    "sum_sq_err": 11.343650957245547,
+    "ghost_track_frames": 0,
+    "missed_gt_frames": 239,
+    "mean_confirmed_tracks": 2.522613065326633
+  },
+  "fused_metrics": {
+    "rmse": 0.1358667802927652,
+    "matches": 502,
+    "sum_sq_err": 9.26681055753551,
+    "ghost_track_frames": 0,
+    "missed_gt_frames": 239,
+    "mean_confirmed_tracks": 2.522613065326633
+  }
+}

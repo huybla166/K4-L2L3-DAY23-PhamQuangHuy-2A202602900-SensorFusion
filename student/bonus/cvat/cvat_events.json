@@ -1,0 +1,292 @@
+{
+  "frames": [
+    0,
+    198
+  ],
+  "tracks": {
+    "0": {
+      "frames": [
+        0,
+        198
+      ],
+      "states": [
+        "confirmed",
+        "initialized",
+        "tentative"
+      ]
+    },
+    "1": {
+      "frames": [
+        0,
+        198
+      ],
+      "states": [
+        "confirmed",
+        "initialized",
+        "tentative"
+      ]
+    },
+    "2": {
+      "frames": [
+        10,
+        10
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "3": {
+      "frames": [
+        15,
+        15
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "4": {
+      "frames": [
+        26,
+        33
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "5": {
+      "frames": [
+        44,
+        58
+      ],
+      "states": [
+        "confirmed",
+        "initialized",
+        "tentative"
+      ]
+    },
+    "6": {
+      "frames": [
+        44,
+        49
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "7": {
+      "frames": [
+        60,
+        64
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "8": {
+      "frames": [
+        85,
+        85
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "9": {
+      "frames": [
+        88,
+        88
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "10": {
+      "frames": [
+        92,
+        198
+      ],
+      "states": [
+        "confirmed",
+        "initialized",
+        "tentative"
+      ]
+    },
+    "11": {
+      "frames": [
+        132,
+        132
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "12": {
+      "frames": [
+        135,
+        135
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "13": {
+      "frames": [
+        141,
+        141
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "14": {
+      "frames": [
+        143,
+        148
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "15": {
+      "frames": [
+        183,
+        183
+      ],
+      "states": [
+        "initialized"
+      ]
+    }
+  },
+  "ghost_tracks": {
+    "2": {
+      "frames": [
+        10
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "3": {
+      "frames": [
+        15
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "4": {
+      "frames": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "6": {
+      "frames": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "11": {
+      "frames": [
+        132
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "12": {
+      "frames": [
+        135
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "13": {
+      "frames": [
+        141
+      ],
+      "states": [
+        "initialized"
+      ]
+    },
+    "14": {
+      "frames": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "states": [
+        "initialized",
+        "tentative"
+      ]
+    },
+    "15": {
+      "frames": [
+        183
+      ],
+      "states": [
+        "initialized"
+      ]
+    }
+  },
+  "confirmed_ghost_frames": 0,
+  "id_changes": {
+    "VJ3F-NiHmRQh0umylCVJmA": [
+      {
+        "track": 5,
+        "from_frame": 44,
+        "state": "initialized"
+      },
+      {
+        "track": 7,
+        "from_frame": 60,
+        "state": "initialized"
+      }
+    ],
+    "8EFRSwEXBf9P-SzIDRzx0A": [
+      {
+        "track": 8,
+        "from_frame": 85,
+        "state": "initialized"
+      },
+      {
+        "track": 9,
+        "from_frame": 88,
+        "state": "initialized"
+      },
+      {
+        "track": 10,
+        "from_frame": 92,
+        "state": "initialized"
+      }
+    ]
+  },
+  "cvat_images": "data/cache/bev_cvat",
+  "image_layout": "BEV rotated 180\u00b0: forward (+x) up, +y (left) on the left, 608x608 px, 1 px = 50/608 m"
+}
